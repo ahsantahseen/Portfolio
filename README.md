@@ -2,10 +2,8 @@
 
 ## Full Stack Developer
 
-#### + 92 331 1384208
 
  ahsan.tntboy@gmail.com
- github.com/ahsantahseen
  ahsantahseen.surge.sh
 
 ## SKILLS
