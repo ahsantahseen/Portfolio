@@ -18,9 +18,8 @@ Server Side Development using **Node.js**
 
 ## EXPERIENCE & PROJECTS:
 
+### MagnIT, Karachi - Backend Developer
 ### Fiverr.com, Karachi - Freelancer
-
-DEC 2020 - PRESENT
 
 ```
 ● Working as a freelancer, providing services in differentareas of web
